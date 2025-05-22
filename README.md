@@ -119,12 +119,12 @@ pip install -e .
 
 ```bash
 # Run from project root directory
-python tests/test_sobel_cuda.py
-python tests/opencv_comparison.py
+python tests/test_sobel.py
+python tests/benchmark.py
 
 # NOT from tests directory (file paths will break)
 # cd tests  # ❌ Don't do this
-# python test_sobel_cuda.py  # ❌ Will fail
+# python test_sobel.py  # ❌ Will fail
 ```
 
 The test scripts use relative paths like `test_images/lena.png` which are relative to the project root.
