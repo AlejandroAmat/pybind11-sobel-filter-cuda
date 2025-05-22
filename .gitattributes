@@ -1,0 +1,8 @@
+*.cu linguist-language=CUDA
+*.cuh linguist-language=CUDA
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.py linguist-language=Python
+
+# Override language detection to show CUDA as primary
+* linguist-language=CUDA
