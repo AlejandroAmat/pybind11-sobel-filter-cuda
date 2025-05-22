@@ -1,0 +1,9 @@
+# ninja log v5
+0	16132	1747888536586903967	/home/aamat/pybind11-sobel-filter-cuda/sobel_cuda/build/temp.linux-x86_64-cpython-310/bindings.o	ad9605ca269c407e
+1	45516	1747888565950686138	/home/aamat/pybind11-sobel-filter-cuda/sobel_cuda/build/temp.linux-x86_64-cpython-310/sobel_filter.o	f4f8ec1b45458116
+19	45463	1747888744225363052	/home/aamat/pybind11-sobel-filter-cuda/sobel_cuda/build/temp.linux-x86_64-cpython-310/sobel_filter.o	f4f8ec1b45458116
+19	16656	1747889226501933705	/home/aamat/pybind11-sobel-filter-cuda/sobel_cuda/build/temp.linux-x86_64-cpython-310/bindings.o	ad9605ca269c407e
+19	45663	1747889255489726480	/home/aamat/pybind11-sobel-filter-cuda/sobel_cuda/build/temp.linux-x86_64-cpython-310/sobel_filter.o	f4f8ec1b45458116
+19	16596	1747889589255318874	/home/aamat/pybind11-sobel-filter-cuda/sobel_cuda/build/temp.linux-x86_64-cpython-310/bindings.o	ad9605ca269c407e
+20	45914	1747889618551106081	/home/aamat/pybind11-sobel-filter-cuda/sobel_cuda/build/temp.linux-x86_64-cpython-310/sobel_filter.o	f4f8ec1b45458116
+19	45721	1747889969092548288	/home/aamat/pybind11-sobel-filter-cuda/sobel_cuda/build/temp.linux-x86_64-cpython-310/sobel_filter.o	f4f8ec1b45458116

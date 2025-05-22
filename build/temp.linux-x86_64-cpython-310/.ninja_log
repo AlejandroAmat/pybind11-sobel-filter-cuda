@@ -1,0 +1,3 @@
+# ninja log v5
+0	16178	1747890490028724365	/home/aamat/pybind11-sobel-filter-cuda/build/temp.linux-x86_64-cpython-310/src/bindings.o	a693d9a452ebbea8
+0	45655	1747890519484507697	/home/aamat/pybind11-sobel-filter-cuda/build/temp.linux-x86_64-cpython-310/src/sobel_filter.o	51379aa8d720b35b
