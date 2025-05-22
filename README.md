@@ -114,7 +114,20 @@ pip install .
 # Or for development
 pip install -e .
 ```
+### Running Tests
+**Note: All test scripts should be run from the project root directory, not from the tests/ folder.**
 
+```bash
+# Run from project root directory
+python tests/test_sobel_cuda.py
+python tests/opencv_comparison.py
+
+# NOT from tests directory (file paths will break)
+# cd tests  # ❌ Don't do this
+# python test_sobel_cuda.py  # ❌ Will fail
+```
+
+The test scripts use relative paths like `test_images/lena.png` which are relative to the project root.
 ### GPU Architecture Support
 The setup includes optimizations for:
 - SM 7.0 (V100)
